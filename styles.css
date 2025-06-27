@@ -1,0 +1,43 @@
+/* Natural History Museum Custom Styles */
+
+:root {
+    --primary-green: #198754;
+    --dark-green: #146c43;
+    --light-green: #d1e7dd;
+    --warm-beige: #f8f6f3;
+    --earth-brown: #8b6f47;
+    --fossil-gray: #6c757d;
+}
+
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Navigation */
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.logo-container {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(25, 135, 84, 0.1);
+    border-radius: 50%;
+}
+
+/* Hero Section */
+.hero-section {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center
