@@ -34,15 +34,23 @@
             font-size: 1.5rem;
         }
 
-        .logo-container {
-            width: 40px;
-            height: 40px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: rgba(25, 135, 84, 0.1);
-            border-radius: 50%;
-        }
+       .logo-container {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(25, 135, 84, 0.1);
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.logo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
 
         /* Hero Section */
         .hero-section {
@@ -165,11 +173,11 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
             <a class="navbar-brand d-flex align-items-center" href="#home">
-                <div class="logo-container me-2">
-                    <i class="fas fa-mountain text-success"></i>
-                </div>
-                <span class="fw-bold">Natural History Museum</span>
-            </a>
+    <div class="logo-container me-2">
+        <img src="Image/logo.png" alt="Natural History Museum Logo">
+    </div>
+    <span class="fw-bold">Natural History Museum</span>
+</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -607,9 +615,9 @@
             <div class="row g-4">
                 <div class="col-lg-4">
                     <div class="d-flex align-items-center mb-3">
-                        <i class="fas fa-mountain text-success fs-3 me-2"></i>
-                        <h5 class="mb-0">Natural History Museum</h5>
-                    </div>
+    <img src="Image/logo.png" alt="Natural History Museum Logo" style="width: 40px; height: 40px; object-fit: cover; border-radius: 50%;" class="me-2">
+    <h5 class="mb-0">Natural History Museum</h5>
+</div>
                     <p>Inspiring wonder and understanding of the natural world through education, research, and exploration.</p>
                     <div class="social-links">
                         <a href="#" class="text-success me-3"><i class="fab fa-facebook fs-4"></i></a>
