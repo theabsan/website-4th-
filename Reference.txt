@@ -1,1 +1,13 @@
-
+Reference list
+Adult, C. (2024) Geologist collects data with his mobile phone, iStock. Available at: https://www.istockphoto.com/photo/geologist-collects-data-with-his-mobile-phone-gm2186017159-604735051 (Accessed: 11 July 2025).
+Bootstrap (2022) Bootstrap, Getbootstrap.com. Available at: https://getbootstrap.com/.
+Garrett, J.J. (2022) The elements of user experience. マイナビ出版.
+iStock (2016) Ammonites Fossils Cephalopods - Free photo on Pixabay, Pixabay.com. Available at: https://pixabay.com/photos/ammonites-fossils-cephalopods-1312298/ (Accessed: 9 July 2025).
+iStock (2024) Children Caressing Turtles during a Field Trip to an indigenous..., iStock. Available at: https://www.istockphoto.com/photo/children-caressing-turtles-during-a-field-trip-to-an-indigenous-village-gm2185610669-604365909 (Accessed: 11 July 2025).
+iStock (2025a) Animals, Jellyfish, Pixabay.com. Available at: https://cdn.pixabay.com/photo/2016/11/21/17/09/animals-1846546_1280.jpg (Accessed: 11 July 2025).
+iStock (2025b) Climate Protection, Pixabay.com. Available at: https://cdn.pixabay.com/photo/2019/03/29/23/44/climate-protection-4090283_1280.jpg (Accessed: 11 July 2025).
+iStock (2025c) Three Female Tourists Snap Photos of a Dinosaur Fossil in the library..., iStock. Available at: https://www.istockphoto.com/photo/three-female-tourists-snap-photos-of-a-dinosaur-fossil-in-the-library-lobby-gm2193158298-611408375?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_topbannerNone_media&utm_term=famous+t+rex+skeleton (Accessed: 11 July 2025).
+izaquar (2017) Dinosaur - Free photo on Pixabay, Pixabay.com. Available at: https://pixabay.com/photos/dinosaur-fossil-2524086/ (Accessed: 11 July 2025).Krug, S. (2000) Don’t make me think!: a common sense approach to Web usability. Pearson Education India.
+Landon, A. (2021) The Secret London Guide to the Natural History Museum, Secret London. Available at: https://secretldn.com/natural-history-museum-visitor-guide/.
+Marcotte, E. (2017) Responsive web design: A book apart n 4. Editions Eyrolles.Nielsen, J. (2012) Usability 101: Introduction to Usability, Nielsen Norman Group. Available at: https://www.nngroup.com/articles/usability-101-introduction-to-usability/.
+Souders, S. (2007) ‘Highperformance Web Sites’, Communications of the ACM, 51(12), pp. 36–41.W3C (2018) How to Meet WCAG (Quickref Reference), www.w3.org. Available at: https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1.
